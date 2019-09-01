@@ -13,7 +13,7 @@ public class StackTrace {
         System.out.println("return " + r);
         return r;
     }
-
+    //main method
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Wpisz n:");
