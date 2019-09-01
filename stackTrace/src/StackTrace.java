@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class StackTrace {
+
+    //comment
     public static int factorial(int n){
         System.out.println("factorial(" + n + "):");
         Throwable t = new Throwable();
